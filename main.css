@@ -1,0 +1,58 @@
+body {
+	text-align: center;
+	height: 1000px;
+	color: blue;
+}
+.snowflake {
+	background:url("falling-snowflake.jpg") no-repeat;
+	background-size: cover;
+	height: 1000px;
+}
+.mybutton {
+	margin: 40px auto;
+	font-family: 'Poiret One', cursive, 'Open Sans', sans-serif;
+	font-size: 48px;
+	background-color: blue;
+	border: 5px solid #66ffcc;
+	border-radius: 50px;
+	color: white;
+	padding: 30px 40px;
+}
+.p-style {
+	color:#000099;
+	text-shadow: 4px 4px #33cccc;
+	font-family: 'Gravitas One', cursive, 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 62px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.text-style-2 {
+	color: #000099;
+	font-family: 'Poiret One', cursive, 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 36px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+a:link, a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+p.macaroni {
+	color: blue;
+	font-family:'Gravitas One', sans-serif;
+	font-size: 32px;
+}
+.body-class {
+	background-color: #accae5;
+	margin: 0;
+	height: 2000px;
+}
+img {
+	margin-top: 100px;
+	margin-bottom: 10px;
+	max-width: 500px;
+	width: 90%;
+}
+
